@@ -1,0 +1,19 @@
+.toolbar-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+
+  ion-title {
+    font-size: xx-large;
+  }
+
+  .nav {
+    margin-right: 2rem;
+
+    ion-button {
+      margin-left: 10px;
+    }
+  }
+}
