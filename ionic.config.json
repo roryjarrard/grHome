@@ -1,0 +1,7 @@
+{
+  "name": "grHome",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
