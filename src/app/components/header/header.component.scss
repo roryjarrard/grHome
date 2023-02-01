@@ -7,6 +7,12 @@
 
   ion-title {
     font-size: xx-large;
+
+    .page-name {
+      text-transform: capitalize;
+      display: inline-block;
+      padding: 2px;
+    }
   }
 
   .nav {
